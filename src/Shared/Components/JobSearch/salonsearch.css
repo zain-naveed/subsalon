@@ -1,0 +1,16 @@
+.fluuu.salons {
+  justify-content: center;
+}
+
+.bg-light.border.salons {
+  margin: 0px 50px;
+}
+
+div#standard-select-currency-salon {
+  min-width: 175px;
+  color: #ffff;
+}
+label#standard-select-currency-salon-label {
+    color: #ffff;
+    opacity: 0.7;
+  }

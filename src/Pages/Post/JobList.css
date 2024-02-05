@@ -1,0 +1,413 @@
+.widthIptPost {
+  width: 322px !important
+}
+
+.reqAsterik {
+  color: #d32f2f;
+  margin-top: 15px;
+}
+
+.job-preview {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 140%;
+  color: #000000;
+}
+.eend_date {
+  display: flex;
+  align-items: baseline;
+}
+.buton_side.nthing {
+  pointer-events: none;
+}
+
+.eend_date.react-datepicker-wrapper {
+  width: 73%;
+}
+
+.enddu .col-md-4 {
+  width: 73% !important;
+}
+
+
+.eend_date .react-datepicker-wrapper {
+  margin-right: 12px;
+}
+.col2.col {
+  display: flex;
+  justify-content: end;
+}
+
+input.joblist_field1::placeholder {
+  font-size: 12px;
+}
+
+textarea.joblist_field2::placeholder {
+  font-size: 12px;
+}
+
+input#infreeSolo2::placeholder {
+  font-size: 12px;
+}
+
+.post-heading {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.4px;
+  color: #212121;
+}
+
+.text-in-post {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+  color: #ffffff;
+}
+
+.form-check1 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  color: #212121;
+}
+
+.form-check1>input.form-check-input {
+  outline: none !important;
+  border-color: black;
+  box-shadow: none !important;
+}
+
+.joblist {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: whitesmoke;
+  padding: 100px;
+  padding-top: 25px;
+}
+
+.joblist_texth {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 6px;
+  color: #000000;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+}
+
+.joblist_card1 {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: initial;
+  justify-content: space-around;
+  width: 102%;
+}
+
+.joblist_card2 {
+  margin-bottom: 10px;
+}
+
+.joblist_field1 {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 11px 16px;
+  gap: 8px;
+  width: 486px;
+  height: 40px;
+  border: 1px solid #8d8d8d;
+  border-radius: 4px;
+  outline-style: none;
+}
+
+.joblist_field2 {
+  box-sizing: border-box;
+
+  /* Auto layout */
+  resize: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 11px 15px;
+  width: 486px;
+  height: 84px;
+
+  /* Core/UI 4 */
+
+  border: 1px solid #8d8d8d;
+  border-radius: 4px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+  outline-style: none;
+}
+
+.joblist_field3 {
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 11px 16px;
+  gap: 8px;
+
+  width: 176px;
+  height: 40px;
+
+  /* Core/UI 4 */
+
+  border: 1px solid #8d8d8d;
+  border-radius: 4px;
+}
+
+.joblist_field4 {
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 11px 16px;
+  gap: 8px;
+
+  width: 176px;
+  height: 40px;
+
+  /* Core/UI 4 */
+
+  border: 1px solid #8d8d8d;
+  border-radius: 4px;
+}
+
+.list_icon {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 49px;
+}
+
+/* .joblist_card1_label {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.13rem;
+  line-height: 140%;
+} */
+
+span.MuiCircularProgress-root.MuiCircularProgress-indeterminate.MuiCircularProgress-colorPrimary.circulerr.actionJob.css-18lrjg1-MuiCircularProgress-root {
+  width: 20px !important;
+  height: 20px !important;
+  font-size: 12px !important;
+}
+
+span.MuiCircularProgress-root.MuiCircularProgress-indeterminate.MuiCircularProgress-colorPrimary.circulerr.actionJob.css-z01bqi {
+  width: 20px !important;
+  height: 20px !important;
+  font-size: 12px !important;
+}
+
+.formikTags {
+  margin-left: -20%;
+  margin-top: -4% !important;
+}
+
+.list_title {
+  color: #000000;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 1.08rem !important;
+  line-height: 140% !important;
+}
+
+.jobPreviewTitle {
+  font-family: 'Open Sans' !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  line-height: 140% !important;
+  color: #000000 !important;
+}
+
+.formikerror_show {
+  height: auto;
+  margin-top: 4px;
+  display: flex;
+  align-self: start;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #d32f2f;
+  /* padding-top: 18px; */
+}
+
+.list_col1 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 140%;
+  color: #9e9e9e;
+  width: 115px;
+}
+
+.SearchTag {
+  position: absolute;
+  top: 28px;
+  left: 10px;
+}
+
+.mb-2.custums.row {
+  align-items: center;
+  margin-bottom: 0.7rem !important;
+}
+
+select#exampleForm\.ControlInput3 {
+  margin-bottom: 6px;
+  padding-bottom: 8px;
+}
+
+.joblist_card .mb-3.row {
+  align-items: baseline;
+}
+
+label.list_col2.form-label {
+  margin-bottom: 0px !important;
+}
+
+.list_col2 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 140%;
+  text-align: right;
+  color: #212121;
+}
+
+.buton_side {
+  text-align: right;
+  width: 64%;
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 480px) {
+
+  .widthIptPost {
+    width: 100% !important
+  }
+
+  .formikTags {
+    margin-left: 0%;
+  }
+
+  .joblist_texth {
+    margin: 6% 0% 6% 2%;
+  }
+
+  .SearchTag {
+    top: 20px !important;
+  }
+
+  .joblist {
+    display: flex;
+    background: #e5e5e5;
+    align-items: center;
+  }
+
+  .card {
+    width: 100% !important;
+  }
+
+  .joblist_card1 {
+    width: 100%;
+  }
+
+  .joblist_card2 {
+    width: 100%;
+  }
+
+  .joblist_card3 {
+    width: 100%;
+  }
+
+  .card1_child {
+    display: none !important;
+    width: 365px !important;
+  }
+
+  .buton_side {
+    text-align: right;
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .joblist_body_btn {
+    width: 90% !important;
+    margin: 0 auto;
+  }
+
+  .joblist_card1_side {
+    width: 400px !important;
+  }
+
+  .joblist_field1 {
+    width: 365px !important;
+  }
+
+  .joblist_field2 {
+    width: 365px !important;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .joblist {
+    padding: 8px;
+  }
+
+  .card1_child {
+    display: none !important;
+  }
+
+  .buton_side {
+    margin-top: 10px !important;
+    width: 100% !important;
+  }
+
+  .joblist_body_btn {
+    width: 90% !important;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .SearchTag {
+    top: 22px;
+  }
+
+  .buton_side {
+    margin-bottom: 100px;
+    margin: 0 auto;
+    display: flex;
+  }
+}

@@ -1,0 +1,224 @@
+.bg-light.border {
+  background: transparent !important;
+  border: 0px !important;
+}
+.hstack.gap-5 {
+  justify-content: space-between;
+  color: #fff;
+}
+.mainFilterbar {
+  padding: 32px 30px;
+}
+span.span11 {
+  border: 0.3px solid #e0e0e078 !important;
+  height: 25px;
+  margin: 0 10px;
+}
+.css-p0rm37.Mui-error {
+  color: rgb(176 176 176) !important;
+}
+.css-u9osun {
+  color: #fff 
+!important;
+}
+.css-9sors8-MuiButtonBase-root-MuiIconButton-root, .css-7vbamj{
+  color: #fff !important;
+}
+
+.css-1ixds2g {
+  color: #fff !important;
+}
+label#standard-select-currency-label {
+  color: #ffff;
+  opacity: 0.7;
+}
+
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiSelect-icon.MuiSelect-iconStandard.css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon {
+  color: #fff;
+}
+.livetest svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-vubbuv {
+  color: #fff !important;
+}
+
+.livetest input#free-solo-2-demo {
+  color: #fff;
+  /* background-color: red; */
+}
+div#standard-select-currency {
+  color: #ffff;
+  min-width: 60px;
+}
+
+.css-1480iag-MuiInputBase-root-MuiInput-root:before {
+  display: none;
+}
+label#standard-multiline-flexible-label {
+  color: #ffff;
+}
+
+.css-5xn5lu-MuiInputBase-root-MuiInput-root:before {
+  display: none;
+}
+
+.css-5xn5lu-MuiInputBase-root-MuiInput-root:after {
+  display: none;
+}
+
+textarea#standard-multiline-flexible::placeholder {
+  color: #fff;
+}
+
+.pin {
+  margin-right: 20px;
+}
+
+textarea#standard-multiline-flexible {
+  color: #fff;
+}
+input#datepicker {
+  color: #fff;
+}
+
+label#datepicker-label {
+  color: #fff;
+}
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root,
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input,
+.css-i4bv87-MuiSvgIcon-root,
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  /* color:white !important */
+}
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border: none !important;
+}
+input[type="date"]::-webkit-calendar-picker-indicator {
+  color: #ffff;
+  opacity: 1;
+  border-width: thin;
+  filter: invert(1);
+  width: 25px;
+  height: 35px;
+}
+p.MuiTypography-root.MuiTypography-body1.MuiTypography-gutterBottom.css-d3wcwz-MuiTypography-root {
+  opacity: 0.4;
+  color: #fff;
+}
+
+label#standard-multiline-flexible-label {
+  opacity: 0.7;
+}
+.css-eg0mwd-MuiSlider-thumb::after {
+  color: #fff !important;
+}
+
+.css-eg0mwd-MuiSlider-thumb:before {
+  background: #fff;
+  opacity: 0.9;
+}
+
+span.MuiSlider-track.css-1gv0vcd-MuiSlider-track {
+  color: #fff;
+}
+
+span.MuiSlider-rail.css-14pt78w-MuiSlider-rail {
+  color: #ffff;
+}
+.fluuu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.bg-light.border {
+  display: flex;
+  align-items: center;
+}
+
+.rangeslider {
+  margin: 0px 35px;
+}
+span.MuiTouchRipple-root.css-8je8zh-MuiTouchRipple-root {
+  color: #fff !important;
+}
+button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  color: #fff;
+  border: 1px solid;
+}
+input.MuiInputBase-input.css-yz9k0d-MuiInputBase-input {
+  color: #fff;
+}
+.nonne {
+  display: none;
+}
+
+.searchmobile {
+  margin: 10px 23px;
+  background: white;
+}
+.searchmobile img {
+  filter: invert(1);
+}
+.fluuu.ownerflue {
+  justify-content: space-evenly;
+}
+.searchmobile input.MuiInputBase-input.css-yz9k0d-MuiInputBase-input {
+  color: #000;
+  padding: 13px 50px;
+}
+.css-1ptx2yq-MuiInputBase-root-MuiInput-root:before {
+  border: 0px !important;
+}
+.css-8q2m5j-MuiInputBase-root-MuiInput-root:before {
+  border: 0px !important;
+}
+.sliderflex {
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
+span.MuiSlider-colorPrimary.MuiSlider-sizeMedium.MuiSlider-root.css-187mznn-MuiSlider-root {
+  margin: 0 15px;
+}
+.css-nxo287-MuiInputBase-input-MuiOutlinedInput-input {
+  padding: 10px;
+  color: #ffff !important;
+}
+
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+  color: #fff !important;
+}
+
+/* svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root {color: #ffff;} */
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  color: #fff !important;
+}
+span.MuiSlider-colorPrimary.MuiSlider-sizeMedium.MuiSlider-root.css-exkjcx {
+  margin: 0px 15px;
+}
+
+.dateee svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-vubbuv {
+  filter: invert(1);
+}
+.dateee label#mui-13-label {
+  color: #fff;
+}
+.zipcode
+  button.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-edgeEnd.MuiIconButton-sizeMedium.css-slyssw
+  svg {
+  color: #fff;
+}
+@media screen and (max-width: 1400px) {
+  button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    font-size: 5px;
+    padding: 7px 5px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .searchmobile {
+    margin: 10px 0px;
+    background: white;
+  }
+  .jobcardItems {
+    width: 100%;
+    margin: 20px 0px !important;
+  }
+}

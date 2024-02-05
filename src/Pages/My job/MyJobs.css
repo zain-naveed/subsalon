@@ -1,0 +1,39 @@
+.myjobs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #E5E5E5;
+    height: 138vh;
+}
+.myjob_inpt{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.myjob_inpt{
+    border-style: none;
+    outline-style: none;
+}
+@media screen and (max-width:480px) {
+ .container-fluid.job_form{
+    position: absolute;
+    left: 0;
+    top: 115px;
+ }
+ .jobdata_cad{
+    height: 21vh;
+    top: 34px;
+ }
+ .myjobs{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    background: #E5E5E5 !important;
+    height: 100vh !important;
+ }
+ .card{
+     height: 100% !important;
+ }
+}

@@ -1,0 +1,154 @@
+.salonitem {
+  padding: 0;
+}
+
+.banner img {
+  width: 100%;
+  height: 144px;
+  object-fit: cover;
+}
+
+.profilepicc {
+  position: absolute;
+  left: calc(100% - 63%);
+  top: 100px;
+  border-radius: 50%;
+}
+
+.banner {
+  position: relative;
+  height: 142px;
+}
+.loadings.css-79xub {
+  width: 100%;
+  height: 100%;
+}
+.favWeb .spinner-border {
+  width: 13px;
+  height: 14px;
+}
+
+.profilepicc img {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+.bioInfo {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.cardP {
+  justify-content: center !important;
+  display: flex !important;
+}
+
+p.titles {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 900;
+  margin-top: 5%;
+}
+
+p.descrip {
+  font-size: 12px;
+  color: #898989;
+}
+
+.innerbtn {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.apllyy.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  background: #2892d6;
+  padding: 8px 35px;
+  /* min-width: 160px !important; */
+  min-width: 44% !important;
+  min-height: 42px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 0.25px;
+  color: #ffffff;
+}
+
+button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.favv.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  background: #fff;
+  color: #9e9e9e;
+  padding: 8px 15px;
+  min-width: 157px !important;
+  min-height: 42px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 0.25px;
+  min-width: 100% !important;
+}
+
+button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.favv.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover {
+  background: #2892d5;
+  color: #9e9e9e;
+  padding: 8px 15px;
+  min-width: 100% !important;
+  min-height: 42px;
+}
+
+button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.favon.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  background: #2892d5;
+  padding: 5px 12px;
+  color: #fff;
+  min-width: 100% !important;
+  min-height: 42px;
+  font-size: 12px;
+  font-family: "Open Sans";
+  font-weight: 100;
+}
+
+.Buttons_applay {
+  padding: 5px 0px 15px 0px;
+}
+
+span.detailone {
+  color: #9b9898;
+}
+
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.start_reviews.css-i4bv87-MuiSvgIcon-root {
+  /* font-size: 16px; */
+  width: 11.62px;
+  height: 11px;
+  color: rgba(255, 184, 54, 1);
+}
+
+span.reviwes {
+  color: rgba(255, 184, 54, 1);
+}
+
+@media screen and (max-width: 1500px) {
+  .salonitem {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .profilepicc {
+    left: calc(100% - 67%);
+  }
+
+  .jobcardItems.salonitem {
+    width: 100%;
+  }
+
+  button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.apllyy.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    background: #2892d6;
+    color: #fff;
+    padding: 10px 35px;
+  }
+}

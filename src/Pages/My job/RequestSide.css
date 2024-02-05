@@ -1,0 +1,9 @@
+#search-bar-0-label{
+    display: none;
+}
+#search-bar-0{
+    position: absolute;
+    top: 25px;
+    width: 16vw;
+    right: 21px;
+}

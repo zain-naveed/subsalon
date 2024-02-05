@@ -1,0 +1,106 @@
+.info-salon{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    background-size: cover;
+    height: 80px;
+    background-repeat: no-repeat;
+
+}
+tr.respPosition {
+    cursor: pointer;
+}
+.salonPic {
+    position: absolute;
+    margin: 0 auto;
+    top: 50px;
+    text-align: center;
+}
+.salonPic img{
+    /* margin-top: 55% !important; */
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.salon-name{
+    margin-top: -5%;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 140%;
+    color: #212121;
+}
+@media screen and (max-width: 694px){
+    .colApplicant ul.nav {
+        justify-content: inherit;
+    }
+    .salonPic {
+        top: 10px;
+        width: 100%;
+    }
+    
+    img.salonAvat {
+        margin-bottom: 0px;
+    }
+    
+    .info-salon{
+        flex-direction: row !important;
+        
+    }
+    .info-salon{
+    display: grid;
+    padding: 0% 0% 6% 1%;
+    background-size: cover;
+    text-align: right;
+    }
+    .salonPic{
+        margin-top: 0%;
+    }
+    .salonAvat{
+        position: initial;
+        left: 35px;
+        top: 140px;
+    }
+    .salon-name{
+        margin-top: 5%;
+        font-weight: 600;
+        font-size: 17px;
+        line-height: 140%;
+        color: #212121;
+        position: initial;
+        top: 100px;
+    }
+    tr.respPosition {
+        cursor: pointer;
+    }
+    .colSalon{
+        flex: auto !important;
+        margin-bottom: 75px;
+    }
+    ul.nav{
+        justify-content: center;
+    }
+    button.nav-link{
+        padding: 0px 65px 24px 38px;
+    }
+    /* li.nav-item{
+        width: 50%;
+    } */
+}
+@media screen and (max-width:480px) {
+    .info-salon{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+    .salonPic{
+        margin-top: 10% !important;
+        border-radius: 50%;
+        }
+        button.nav-link{
+            padding: 0px 48px 0 28px;
+        }
+        
+}

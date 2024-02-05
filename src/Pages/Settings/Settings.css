@@ -1,0 +1,552 @@
+div.checkSettings > input.form-check-input{
+  border-color: #0000;
+  border: 0.5px solid black
+}
+
+
+.border {
+  border: 1px solid #7c7d7e6b !important;
+  /* border: 1px solid #dee2e6!important; */
+  padding: 10px;
+  border-radius: 5px;
+}
+.congrates {
+  text-align: center;
+}
+button.btn.btnSetModal:disabled {
+  color: #fff;
+  background: #7cb8e5 !important;
+}
+button.btn.butttonsDelte {
+  background: #da5046;
+  color: #fff;
+  cursor: pointer;
+}
+
+.delete {
+  padding: 15px 0px;
+  text-align: right;
+}
+.congrates img {
+  margin: 20px 1px;
+}
+
+.settingTitle {
+  padding: 3% 0% 0% 3.4%;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.settingh1 {
+  margin-left: 0.5rem !important;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.csvvcc {
+  display: flex;
+  justify-content: space-between;
+}
+
+.StripeElement.StripeElement--empty {
+  width: 100%;
+}
+
+.divSettings {
+  background-color: #F8F9FB;
+  /* height: 220px; */
+  border-radius: 10px;
+}
+
+.settingsList {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.settingsTab {
+  margin-right: 30px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 140%;
+  color: #9E9E9E;
+}
+
+.settingsEdit {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 140%;
+  color: #2892D7;
+  cursor: pointer;
+}
+
+.rowSettings {
+  border-bottom: 2px solid white !important;
+  padding: 2% 3% 2% 2%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.rowSettings1 {
+  padding: 2% 3% 2% 2%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.billingh1 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+
+.billDiv {
+  padding: 4% 4% 0% 3%;
+  background-color: #F8F9FB;
+  /* height: 300px; */
+  border-radius: 10px;
+}
+
+.settingsP {
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 14px;
+  color: #757575;
+  mix-blend-mode: normal;
+}
+
+.cancelSub {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 140%;
+  text-align: center;
+  color: #222222;
+}
+
+.cancelDesc {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 140%;
+  text-align: center;
+  color: #757575;
+}
+
+.btn.btnCancellation {
+  background: #FA4949;
+  border-radius: 4px;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  height: 43px;
+  text-align: center;
+  letter-spacing: 0.25px;
+  color: #FFFFFF;
+}
+
+.btn.btnCancellation:hover {
+  color: #FFFFFF;
+}
+
+.btn.btnCancellationNo {
+  border-radius: 4px;
+  font-family: 'Open Sans';
+  border: 1px solid #29B57A;
+  font-style: normal;
+  font-weight: 500;
+  height: 43px;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 0.25px;
+  color: #29B57A;
+}
+
+.btn.btnCancellationNo:hover {
+  color: #29B57A;
+}
+
+.settingPrice {
+  width: auto;
+  height: 27px;
+  left: 16.5px;
+  top: 40.64px;
+  font-family: 'Open Sans';
+  height: 32px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  color: #494949;
+}
+
+.settingTitle2 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.btn.btnSubs {
+  background: #EF9D21;
+  border-radius: 4px;
+  border: #EF9D21;
+  color: white;
+  width: 200px;
+}
+
+.btn.btnSubs:hover {
+  background: #EF9D21;
+  color: white;
+}
+
+.upcomingPayment {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  color: #636872;
+}
+
+.creditCard {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  margin-left: 5%;
+  color: #000000;
+  width: 200px;
+}
+
+.btn.btnCancel {
+  width: 200px;
+  background: #FFFFFF;
+  border-radius: 4px;
+  color: black;
+  border: none;
+}
+
+.btn.btnCancel:hover {
+  color: black;
+  background: #FFFFFF;
+
+}
+
+.btn.btnPayment {
+  background: #2892D7 !important;
+  color: white !important;
+  border: none;
+}
+
+.btn.btnPayment:hover {
+  background: #2892D7 !important;
+  border: none;
+  color: white !important;
+}
+
+.divBilling {
+  display: flex;
+  justify-content: space-between;
+}
+
+.divBilling1 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.settingTitle1 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.EmailDiv {
+  padding: 4% 4% 0% 3%;
+  background-color: #F8F9FB;
+  height: 112px;
+  border-radius: 10px;
+}
+
+.emailh1 {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+
+
+.switcher.form-check-input:checked {
+  border: none !important;
+}
+
+.form-check-input:checked {
+
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.form-check-input:focus {
+
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+/* .form-check-input:checked {
+  background-color: #43A047 !important;
+  border: none !important;
+} */
+
+.emailHead {
+  display: flex;
+  justify-content: space-between;
+}
+
+.SetModalTitle {
+  font-family: SF Pro Display;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+
+.SetModalHead {
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.4px;
+  color: #212121;
+}
+
+.SetModalIpt {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.25px;
+  /* color: #A8A8A8; */
+  padding-left: 2%;
+  margin-top: 2%;
+  height: 35px;
+  width: 100%;
+}
+
+.setModalIptField {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.25px;
+  color: #A8A8A8;
+}
+
+.btn.btnSetModal {
+  width: 100%;
+  background: #2892D7 !important;
+  border-radius: 4px;
+  color: white !important;
+  border: none;
+}
+
+.btn.btnSetModal:hover {
+  color: white;
+}
+
+.btn.btnSetModal:hover {
+  width: 100%;
+  background: #2892D7 !important;
+  border-radius: 4px;
+  border: none;
+}
+
+.setP {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px;
+  letter-spacing: 0.4px;
+  color: #6F6F6F;
+}
+
+.defAcc {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.4px;
+  color: #525252;
+}
+
+.cardExp {
+  display: none !important;
+}
+
+.cardCVC {
+  display: none !important;
+}
+
+.dIRWMy {
+  display: inline-block;
+  border: 1px solid #7c7d7e6b;
+  width: 100%;
+  border-radius: 3px;
+}
+
+.SetModalIptCard {
+  border-radius: 3px;
+  padding: 10px;
+  border: 1px solid #7c7d7e6b;
+  margin-top: 2%;
+  height: 35px;
+  width: 30%;
+}
+
+.SetModalIptCard.form-select {
+  width: 30%
+}
+
+.headingCard {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 39%;
+}
+
+.passReq {
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px;
+  letter-spacing: 0.4px;
+  color: #6F6F6F;
+}
+
+.defAcc.form-check-input:checked {
+  background-color: black !important;
+}
+
+
+@media screen and (max-width: 480px) {
+
+  .upcomingPayment {
+    margin-bottom: 10px;
+  }
+
+  .settingTitle {
+    padding: 3% 0% 0% 6% !important;
+  }
+
+  .ModalMobile {
+    margin-top: 50% !important;
+  }
+
+  .priceh1 {
+    font-size: 28px;
+  }
+
+  .settingsTab {
+    margin-left: 2%;
+  }
+
+  .settingsList {
+    margin-left: 2%;
+  }
+
+  .settingsEdit {
+    position: absolute;
+    right: 5%;
+    margin-top: -3%;
+  }
+
+  .rowSettings {
+    display: block;
+  }
+
+  .rowSettings1 {
+    display: block;
+  }
+
+
+  .divSettings {
+    position: relative;
+  }
+}
+
+@media screen and (max-width: 600px) {
+
+  .settingTitle {
+    padding: 3% 0% 0% 4%;
+  }
+
+  .btn.btnSubs {
+    width: 93% !important;
+    position: absolute;
+    top: 155px;
+  }
+
+  .billDiv {
+    position: relative;
+  }
+
+  .btn.btnCancel {
+    margin-top: 12%;
+    ;
+  }
+
+  .divBilling {
+    display: block;
+  }
+
+  .btn.btnSubs {
+    width: 100%;
+  }
+
+  .btn.btnCancel {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .btn.btnPayment {
+    width: 100%;
+  }
+
+  .divBilling1 {
+    margin-bottom: 10px;
+  }
+
+  .billDiv {
+    height: auto;
+  }
+
+  .cardSign.billCard {
+    height: 65rem !important;
+  }
+
+  .settingsModal {
+    margin-top: 20% !important;
+  }
+}
+
+@media screen and (max-width: 515px) {
+  .btn.btnCancel {
+    margin-top: 16%;
+  }
+
+  .priceh1 {
+    font-size: 20px !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .priceh1 {
+    font-size: 34px;
+  }
+}
+
+.marginRight-10 {
+  margin-right: 10px;
+}

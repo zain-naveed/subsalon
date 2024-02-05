@@ -1,0 +1,145 @@
+.ownerdashboard.container {
+  max-width: 60% !important;
+  margin: 0 auto !important;
+  /* height: 500px; */
+}
+
+.range-calender {
+  border: 1px solid #e0e0e0;
+  background: white;
+  height: 35px;
+  width: 170px;
+  border-radius: 5px;
+}
+
+.ownerHeader {
+  padding: 1rem 1rem;
+  background: #fff;
+}
+
+.lableownerHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Itemlable p {
+  font-size: 14px;
+}
+
+.dashCards {
+  display: flex;
+}
+
+.dashcardItems {
+  background: blanchedalmond;
+  padding: 20px 10px;
+  width: 33%;
+  border-radius: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.inercards {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.inercardItems p.count {
+  font-size: 34px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.inercardItems p.aarrow a {
+  font-weight: 700;
+  color: #fff !important;
+}
+
+.inercardItems p.titlee {
+  color: #fff;
+}
+
+.ownerBody {
+  padding-top: 50px;
+  background: #f8f9fb;
+}
+
+.dashcardItems.one {
+  background: rgba(32, 117, 172, 1);
+}
+
+.dashcardItems.two {
+  background: rgba(239, 157, 33, 1);
+}
+
+.dashcardItems.three {
+  background: rgba(41, 181, 122, 1);
+}
+
+.Buttons_applay
+  button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.apllyy.css-79xub {
+  background: #2892d5;
+  color: #fff;
+  width: 40%;
+}
+
+p.aarrow {
+  margin: 0;
+  color: #fff;
+}
+
+.inercardItems p.titlee {
+  margin: 0;
+}
+
+.inercardItems p.count {
+  margin: 0;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert;
+}
+
+/* label#datepicker-label {
+  color: rgb(0, 0, 0);
+} */
+
+@media screen and (max-width: 992px) {
+  .ownerdashboard.container {
+    max-width: 100% !important;
+  }
+
+  .lableownerHeader {
+    display: block;
+  }
+
+  .inercards {
+    display: block;
+  }
+
+  .dashcardItems {
+    width: 33%;
+    margin: 2px;
+    padding: 7px;
+  }
+
+  .inercardItems p.count {
+    font-size: 22px;
+    text-align: center;
+  }
+
+  .inercardItems p.titlee {
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .dashCards {
+    margin-top: 20px;
+  }
+
+  p.aarrow {
+    text-align: right;
+  }
+}

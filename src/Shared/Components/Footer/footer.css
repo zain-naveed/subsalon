@@ -1,0 +1,160 @@
+/* .divFooter {
+  background-color: #0C2D41;
+  height: 50vh;
+}
+
+.colFoot {
+  color: white;
+}
+
+.pFooter {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 140%;
+  color: #FFFFFF;
+  opacity: 0.5;
+  width: 90%;
+}
+
+.hFoot {
+  margin-top: 10%;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 30px;
+  color: #A9D3EF;
+}
+
+.pFoot {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 30px;
+  color: #FFFFFF;
+}
+
+.logoFoot {
+  margin: 12% 10% 7% 0%;
+}
+
+.btn.btnFoot {
+  background-color: #7FE5FF;
+  width: 100%;
+  height: 13%;
+  margin-top: 5%;
+  border-radius: 5px;
+}
+
+.inputFoot {
+  width: 100%;
+  border-radius: 5px;
+  height: 15%;
+} */
+
+.colorFoot {
+  background-color: #0C2D41;
+}
+
+.pFooter {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  color: #FFFFFF;
+  opacity: 0.5;
+  width: 90%;
+}
+
+.hFoot {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  color: #A9D3EF;
+}
+
+.pFoot {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.pFoot:hover {
+  color: white;
+}
+
+.fw-bold {
+  text-decoration: none;
+}
+
+.foot {
+  border-top: 4px solid #16344C
+}
+
+.btn.btnFoot {
+  background-color: #7FE5FF;
+  width: 100%;
+}
+
+.iptFoot {
+  width: 100%;
+  border-radius: 5px;
+  padding-left: 10px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  color: black;
+}
+
+.btn.socials {
+  color: white !important;
+  background: #244254;
+  margin-right: 10px;
+  border-radius: 50%;
+  height: 40px;
+
+}
+
+.socialDiv {
+  display: flex;
+  justify-content: space-between;
+}
+
+.socialsDiv {
+  padding: 1.5rem !important;
+  width: 17%;
+}
+
+@media screen and (max-width: 480px) {
+  .pFooter {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .socialsDiv {
+    width: 37%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .socialDiv {
+    display: initial;
+  }
+
+  .socialsDiv {
+    margin: 0 auto;
+    width: 100%;
+  }
+}

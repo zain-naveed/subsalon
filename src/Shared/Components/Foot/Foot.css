@@ -1,0 +1,99 @@
+.contFoot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a.pFoot {
+  color: #fff !important;
+}
+
+.Afoot {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 140%;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  /* padding-right: 10%; */
+}
+
+.footDiv {
+  /* margin-right: 95px; */ 
+    width: 13%;
+    display: flex;
+    justify-content: space-around;
+  /* margin-right: 95px;
+  width: 30%;
+  display: flex;
+  justify-content: space-between; */
+}
+
+.Afoot1 {
+  text-decoration: none !important;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 140%;
+  color: #757575 !important;
+}
+
+.Afoot:hover {
+  color: black;
+}
+
+.separatorAuth {
+  border: 0.5px solid #d3d1d1;
+  height: 20px;
+  width: 1px;
+  background-color: #9e9e9e;
+}
+
+.separatorFoot {
+  border: 0.5px solid #d3d1d1;
+  height: 20px;
+  width: 1px;
+  background-color: #9e9e9e;
+}
+
+@media screen and (max-width: 480px) {
+
+  .separateAuthDisplay {
+    display: none !important;
+  }
+
+  .separatorAuth {
+    display: none;
+  }
+
+  .contFoot {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .footDiv {
+    width: 80% !important;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .footDiv {
+    width: 40%;
+  }
+
+  .separatorAuth {
+    display: none !important;
+  }
+
+  .headerAuthAcc {
+    margin-left: 0px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footDiv {
+    width: 50%;
+  }
+}

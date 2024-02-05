@@ -1,0 +1,11 @@
+.captcha_side{
+    /* position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #eeeeee;
+    text-align: center; */
+    background: url("https://www.istockphoto.com/photos/imag");
+    font-family: sans-serif;
+  }

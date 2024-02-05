@@ -1,0 +1,212 @@
+/* .pages {
+  justify-content: center;
+  padding: 2% 0%;
+} */
+
+.JobIpt {
+  /* position: absolute; */
+  /* top: 3%; */
+  /* right: 5%; */
+  font-weight: 400;
+  height: 33px;
+  width: 250px;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.25px;
+  color: #212121;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  padding-left: 13%;
+}
+
+.SearchIcon {
+  position: absolute;
+  top: 9px;
+  left: 8px;
+}
+
+.divForSearch {
+  position: absolute;
+  top: 3%;
+  right: 4%;
+}
+
+.paginationShow {
+  display: flex;
+  padding-top: 3%;
+}
+
+.paginationShowDiv {
+  padding: 0% 30% 0% 0%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.25px;
+  color: #A8A8A8;
+
+}
+
+.dropdown-Job {
+  margin-top: -9px;
+  margin-left: 24%;
+}
+
+.nav-background.active {
+  background-color: #F5F5F5 !important;
+  border-radius: 8px !important;
+}
+
+.check-job-list {
+  border-bottom: none !important;
+}
+
+.cardJobTitle {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+  color: #000000;
+  padding: 2% 0% 2% 4%;
+}
+
+
+.tableJobList {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.paddingReview {
+  padding: 2% 0;
+}
+.tdJobList,
+.thJobList {
+  /* border: 1px solid #dddddd; */
+  text-align: left;
+  padding: 8px;
+}
+
+.thJobList.thBack {
+  background-color: #F8F9FB;
+}
+
+.thHeading {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 140%;
+  color: #202430;
+  opacity: 0.5;
+}
+
+.tdHeading {
+  border-bottom: 1px solid #D6DDEB;
+  font-weight: 600;
+  font-size: 12px;
+  height: 55px;
+  line-height: 140%;
+  align-items: center;
+  color: #212121;
+}
+
+.drops {
+  position: absolute;
+  top: -25px;
+  right: 40px;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.dropDownList {
+  height: 40px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.25px;
+  color: #212121;
+  width: 200px !important;
+}
+
+.redding {
+  color: red !important;
+}
+
+.dropJob {
+  border: 1px solid rgba(0, 0, 0, .15) !important;
+}
+
+
+@media screen and (max-width: 620px) {
+
+  .thHeading,
+  .tdHeading {
+    display: none;
+  }
+
+  .respHeading {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 140%;
+    color: #202430;
+    opacity: 0.5;
+  }
+
+  .respDiv {
+    border-bottom: 1px solid #D6DDEB;
+  }
+
+  .JobRole {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    display: flex;
+    align-items: center;
+    color: #212121;
+  }
+
+  .divFirst {
+    display: flex;
+    justify-content: space-between;
+    padding: 6% 3% 0% 4%;
+  }
+
+  .divSecond {
+    display: flex;
+    justify-content: space-between;
+    padding: 7% 10% 1% 5%;
+  }
+
+  .paginationShow {
+    display: contents;
+  }
+
+  .JobIpt {
+    width: 100%;
+    padding-left: 8%;
+  }
+
+  .divForSearch {
+    position: inherit;
+  }
+
+  .JobPageCard {
+    justify-content: center;
+  }
+
+  .pages {
+    padding-left: 43% !important;
+  }
+}
+
+@media screen and (min-width: 620px) {
+  .responsiveTable {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .paddingReview {
+    padding: 2% 0%!important
+  }
+}

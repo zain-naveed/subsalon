@@ -1,0 +1,36 @@
+/* @media screen and (min-width:1170px) {
+    .paddingReview {
+        padding: 2% 0% 0% 10% !important
+    }
+} */
+.paddingReview .read-more-button {
+    color: cornflowerblue;
+    cursor: pointer;
+}
+
+.noReview {
+    padding: 50px;
+}
+@media screen and (max-width: 1400px) {
+    .paddingReview {
+        padding: 2% 0%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .paddingReview {
+        padding: 2% 0% ;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .paddingReview {
+        padding: 2% 0% ;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .paddingReview {
+        padding: 2% 0%;
+    }
+}

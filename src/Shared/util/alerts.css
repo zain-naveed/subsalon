@@ -1,0 +1,24 @@
+button.bttnss {
+    padding: 4px 35px;
+    margin: 12px;
+    border: 0;
+    border-radius: 4px;
+}
+
+button.bttnss.canclee {
+    color: #fff;
+    background: #3088cb;
+}
+
+button.bttnss.deltee {
+    background: #e43b17;
+    color: #fff;
+}
+
+button.bttnss.deltee:hover {
+    background: #6a1a08;
+}
+
+button.bttnss.canclee:hover {
+    background: #114369;
+}

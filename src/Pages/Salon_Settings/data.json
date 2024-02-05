@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "day": "MON",
+    "time": ["10:00 AM", "6,:00 PM"],
+    "flag": false
+  },
+  {
+    "id": 1,
+    "day": "TUE",
+    "time": ["8:00 AM", "9:,00 PM"],
+    "flag": false
+  },
+  {
+    "id": 2,
+    "day": "WED",
+    "time": ["8:00 AM", "5:,00 PM"],
+    "flag": false
+  },
+  {
+    "id": 3,
+    "day": "THU",
+    "time": ["11:00 AM", "8,:00 PM"],
+    "flag": false
+  },
+  {
+    "id": 4,
+    "day": "FRI",
+    "time": ["10:00 AM", "5,:00 PM"],
+    "flag": false
+  },
+  {
+    "id": 5,
+    "day": "SAT",
+    "time": ["Unavailable"],
+    "flag": false
+  },
+  {
+    "id": 6,
+    "day": "SUN",
+    "time": ["Unavailable"],
+    "flag": false
+  }
+]

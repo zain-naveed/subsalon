@@ -1,0 +1,220 @@
+.content1 {
+  text-align: center;
+  padding-top: 7%;
+  margin: 0 auto;
+}
+
+.content1 h2 {
+  font-size: 48px;
+  color: #000;
+}
+
+.content1 p {
+  font-size: 14px;
+  line-height: 24px;
+  padding: 16px 80px;
+  opacity: 0.8;
+    color: rgba(97, 97, 97, 1);
+}
+.css-1tcs2i1-MuiInputBase-root-MuiInput-root:before {
+  border: 0px !important;
+}
+.item .css-1tcs2i1-MuiInputBase-root-MuiInput-root::after{
+  right: -100%;
+}
+img.pinn {
+  filter: invert(1);
+  width: 17px;
+}
+.flexxsearch {
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  padding: 3px 7px;
+  align-items: center;
+  border-radius: 6px;
+}
+.DashborasdFindJobs {
+  background: whitesmoke;
+  min-height: 100vh;
+}
+
+.searchdiv {
+  width: 50%;
+  margin: 0 auto;
+}
+.MuiInput-root.MuiInput-underline.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-adornedStart.css-1up7ebe {
+  padding: 9px 5px;
+  width: 100%;
+}
+
+.item button.btn.btn-primary {
+  background: #103a56 !important;
+  border-color: #103a56 !important;
+  padding: 8px 30px;
+  /* margin-left: 5px; */
+}
+.infotext {
+  text-align: center;
+  padding: 20px;
+}
+
+p.srchText {
+  font-size: 14px;
+  color: #757575;
+  font-weight: 600;
+}
+.backImg {
+  height: 300px;
+  width: 100%;
+  background: url("../../../Assets/images/coverPhoto.png");
+  position: relative;
+  background-size: cover;
+}
+.item button.btn.btn-primary:hover {
+    background: #0c649f !important;
+    border-color: #0c649f !important;
+}
+.conten2 button.btn.btn-primary:hover {
+    color: #fff;
+    background: #0f3a56;
+}
+input.MuiInput-input.MuiInputBase-input.MuiInputBase-inputAdornedStart.css-1x51dt5-MuiInputBase-input-MuiInput-input {
+    min-width: 100%;
+}
+.bannerdash {
+  margin: 0 auto;
+  padding: 70px;
+}
+.conten2 {
+  width: 40%;
+  margin: 0 auto;
+  position: absolute;
+  left: 40%;
+  right: 0;
+  top: 25%;
+}
+
+.conten2 h2 {
+  font-size: 24px;
+  color: #ffff;
+  font-weight: 800;
+}
+
+.conten2 p {
+  font-size: 14px;
+  color: #fff;
+  opacity: 0.8;
+}
+
+.conten2 button.btn.btn-primary {
+  color: #000;
+  font-size: 17px;
+  background: #fff;
+}
+.mainnavitem {
+  margin: 2px 25px;
+  /* border-bottom: 3px solid black !important; */
+  padding: 9px 0px;
+}
+.hoveron{
+    border-bottom: 3px solid black !important;
+
+}
+.searchable .css-1up7ebe::before{
+  border-bottom: 0px !important;
+}
+@media screen and (max-width: 992px) {
+  .content1 h2 {
+    font-size: 25px !important;
+  }
+  .item .css-1tcs2i1-MuiInputBase-root-MuiInput-root::after{
+    right: -65%;
+  }
+  .item.mobi {
+    padding: 0;
+  }
+
+  .content1 p {
+    padding: 0;
+  }
+
+  .flexxsearch {
+    display: block;
+    background: whitesmoke;
+    padding: 0;
+  }
+
+  .searchdiv {
+    width: 100%;
+  }
+
+  .item {
+    margin: 10px 7px;
+    background: #ffff;
+    padding: 10px 12px;
+  }
+
+  .item button.btn.btn-primary {
+    width: 100%;
+  }
+
+  span.span11 {
+    display: none;
+  }
+  .backImg{
+    background: url("../../../Assets/images/bannerMob.png");
+    background-size: cover;
+    height: 300px;
+    border-radius: 6px;
+
+  }
+  .bannerdash{
+      padding: 0;
+  }
+
+  .conten2 {
+    top: 22%;
+  }
+  
+  .conten2 h2 {
+    font-size: 18px !important;
+  }
+  
+  .conten2 p {
+    font-size: 15px;
+  }
+  
+  .conten2 button.btn.btn-primary {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+    .backImg{
+        height: 170px;
+
+    }
+
+.conten2 {
+    top: 5%;
+  }
+  
+  .conten2 h2 {
+    font-size: 13px !important;
+  }
+  
+  .conten2 p {
+    font-size: 9px;
+  }
+  
+  .conten2 button.btn.btn-primary {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 375px)
+{
+.conten2 {
+    top: 1%;
+}
+}

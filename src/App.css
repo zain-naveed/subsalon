@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+* {
+  font-family: "Open Sans";
+}
+
+input:focus {
+  outline: none;
+}
+
+.css-igs3ac {
+  border: none !important;
+}
+
+.numberOfHours {
+  width: calc(50% - 12px) !important;
+}
+/* .css-u9osun.Mui-error {
+  color: #ffff !important;
+} */
+
+button {
+  box-shadow: none !important;
+}
+button.btn.jobDetailBtn:hover {
+  background: #248cd7 !important;
+  color: #fff;
+}
+.btn.btnApplicant:hover {
+  color: white;
+  background: #2792d7 !important;
+}
+button.btn.btnClose.me-2:hover {
+  background: #fde6e5 !important;
+  border: 1px solid #fde6e5 !important;
+}
+button.btn.btnDone.me-2:hover {
+  background: #ddf5ec !important;
+  border: 1px solid #ddf5ec !important;
+}
+button.btn.dropdown-Job:hover {
+  border: 0px !important;
+}
+
+button#dropdown-basic:hover {
+  border: 0px !important;
+}
+
+button.btn.dropdown-Job {
+  border: 0px !important;
+}
+
+button#dropdown-basic {
+  border: 0px !important;
+}
+span.btn.btnUpload:hover {
+  background: #2792d7 !important;
+}
+a {
+  text-decoration: none !important;
+  color: #000 !important;
+}
+
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeInherit.css-1vooibu-MuiSvgIcon-root {
+  margin-top: 4px;
+}
+
+label.css-ykqdxu > span.MuiRating-icon.MuiRating-iconFilled.css-13m1if9 {
+  margin-top: 4px;
+}
+
+.react-datepicker {
+  z-index: 1;
+}
+
+.css-7drnjp,
+.css-1t2bqnt,
+.css-b04pc9 {
+  color: black;
+}
+
+.alert-warning {
+  background-color: rgba(254, 250, 246, 1) !important;
+  border: none !important;
+}
+
+.lfVwdQ .credit-card-input {
+  width: auto;
+}
+
+.closeSymbol {
+  position: absolute;
+  top: 2%;
+  right: 3%;
+  cursor: pointer;
+}
+h1.mainheads {
+  padding: 20px 0px;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 140%;
+  color: #000000;
+}
+
+h4.privcyHead {
+  padding: 10px 0px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+p.privcydetail {
+  font-size: 14px;
+  text-align: justify;
+}
+
+@media screen and (max-width: 600px) {
+  svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root {
+    font-size: 25px !important;
+  }
+}
+
+.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-outlined.MuiFormLabel-root.MuiFormLabel-colorPrimary.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  color: black !important;
+}
+
+label[data-shrink="false"]
+  + .MuiInputBase-formControl
+  .css-1g24dm6-MuiInputBase-input-MuiOutlinedInput-input {
+  background-color: white !important;
+}
+
+/* .MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiAutocomplete-inputRoot.css-md26zr-MuiInputBase-root-MuiOutlinedInput-root {
+  background-color: white !important;
+} */
+
+/* .MuiOutlinedInput-input.MuiInputBase-input.MuiInputBase-inputTypeSearch.MuiAutocomplete-input.MuiAutocomplete-inputFocused.css-1g24dm6-MuiInputBase-input-MuiOutlinedInput-input {
+  background-color: white !important;
+} */
+
+.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-adornedStart.MuiAutocomplete-inputRoot.css-8j6b76-MuiInputBase-root-MuiOutlinedInput-root {
+  background: white !important;
+  padding: 0px 0px 0px 10px !important;
+  margin: 0px !important;
+}
+
+div.MuiAutocomplete-root.tagsArrTags.css-16awh2u-MuiAutocomplete-root
+  > div.MuiFormControl-root.MuiFormControl-fullWidth.MuiTextField-root.css-wb57ya-MuiFormControl-root-MuiTextField-root
+  > div.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-adornedStart.MuiAutocomplete-inputRoot.css-8j6b76-MuiInputBase-root-MuiOutlinedInput-root {
+  background: white !important;
+  padding: 0px 0px 0px 10px !important;
+  margin: 10px 0px 0px 0px !important;
+  border: 1px solid #8d8d8d !important;
+}
+
+div.MuiAutocomplete-root.tagsArrTags.css-1l6di18
+  > div.MuiFormControl-root.MuiFormControl-fullWidth.MuiTextField-root.css-feqhe6
+  > div.MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-fullWidth.MuiInputBase-formControl.MuiInputBase-adornedStart.MuiAutocomplete-inputRoot.css-2xhzvc {
+  background: white !important;
+  padding: 0px 0px 0px 10px !important;
+  margin: 10px 0px 0px 0px !important;
+  border: 1px solid #8d8d8d !important;
+}

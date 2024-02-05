@@ -1,0 +1,87 @@
+div.addFiles>button {
+  background: none;
+  border: none;
+}
+
+.imgsOnChat {
+  position: absolute;
+  padding: 16px;
+  background: #ffff;
+  height: 150px;
+  display: flex;
+  width: 100%;
+  white-space: nowrap;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  flex-wrap: nowrap;
+  width: auto;
+  border-radius: 0px;
+  border-top: 1px solid #EEEEEE;
+  /* top: 60%; */
+  bottom: 76px;
+  margin-left: -10px;
+  width: 100%;
+  /* height: 119px;*/
+}
+
+button.btn.deleteBtnonChat {
+  padding: 0px 4px;
+  height: 25px;
+  width: 25px;
+  margin-left: 22px;
+  justify-content: center;
+}
+
+div.addFiles>button:hover {
+  background: none;
+  border: none;
+}
+
+div.addFiles.show.dropdown>button.dropdown-toggle.btn.btn-success:hover {
+  background: none;
+  border: none;
+}
+
+div.addFiles.show.dropdown>button.dropdown-toggle.btn.btn-success:active {
+  background: none;
+  border: none;
+}
+
+div.addFiles.show.dropdown>button.dropdown-toggle.btn.btn-success:focus {
+  background: none;
+  border: none;
+}
+
+.btn-check:focus+.btn-success,
+.btn-success:focus {
+  background: none !important;
+}
+
+
+
+div.addFiles.show.dropdown>button.dropdown-toggle.btn.btn-success {
+  background: none;
+  border: none;
+}
+
+div.addFiles.show.dropdown>div.dropdown-menu.show {
+  border: 1px solid rgba(0, 0, 0, .15) !important;
+}
+
+@media screen and (max-width: 900px) {
+  .imgsOnChat {
+    margin-left: -3px;
+    /* top: 47%; */
+  }
+}
+.implementImg{
+  border: 1px solid #0000004d;
+    border-radius: 3px;
+    width: 100px;
+    
+    display: flex;
+    object-fit: contain;
+    align-items: center;
+    justify-content: center;
+    width: 45%;
+}

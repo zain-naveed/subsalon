@@ -1,0 +1,73 @@
+.fake_saloon{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 65%;
+}
+
+.fake_jobstatus{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 53%;
+}
+.fake_btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 85%;
+}
+@media screen and (max-width:480px) {
+    .fake_btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    }
+    .demo_row2{
+    position: absolute;
+    left: 40px;
+    }
+    .demo_row3{
+     position: relative;
+    top: 89px;
+    }
+    .demo_row4{
+    position: relative;
+    left: 58px;
+    top: 56px;
+    }
+    .demo_row5{
+    position: relative;
+    top: 24px;
+    left: 126px;
+    }
+    .demo_row6{
+    position: relative !important;
+    top: -10px !important;
+    left: 194px !important;
+    }
+    .fake_jobstatus{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 35%;
+    }
+}
+@media screen and (max-width:1000px) {
+    .fake_btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 110%;
+    }
+    .demo_row1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 210px;
+    }
+}
+.pagination.react-bootstrap-table-page-btns-ul{
+    float: none;
+}

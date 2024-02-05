@@ -1,0 +1,169 @@
+@media screen and (max-width: 992px) {
+    .MuiFormControl-root.MuiTextField-root.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {width: 100%;}
+
+    .jobdrawer .flex {
+        display: block;
+    }
+  
+    .sliderflex span.MuiSlider-track.css-1t2bqnt {
+        color: #1976d2 !important;
+      }
+      .MuiInput-root.MuiInput-underline.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.css-1vv4lmi {
+        filter: invert(1);
+    }
+      span.greytext {
+        color: #b5b2b2;
+      }
+   
+    div#standard-select-currency {
+        min-width: 290px;
+    }
+    .applybtn button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+        color: #ffffff;
+        background: #2892D7;
+    }
+    .MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation16.MuiDrawer-paper.MuiDrawer-paperAnchorLeft.css-wf16b5 {
+        width: 100%;
+    }
+    .applybtn button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.css-79xub {
+        width: 80%;
+        padding: 16px 20px;
+        margin: 20px;
+    }
+    .rangeslider span.MuiSlider-rail.css-b04pc9 {
+        color: #9e9d9d;
+    }
+.resetbtn button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.css-79xub {
+    border-color: #479ad4;
+    color: #479ad4;
+    width: 80%;
+    padding: 16px 20px;
+    margin: 20px;
+}
+
+    .fluuu {
+        display: block;
+        padding: 20px;
+        line-height: 2;
+    }
+
+    .liner hr {
+        color: #d5d5d5;
+        height: 2px;
+    }
+    .sliderflex {
+        display: flex;
+        align-items: center;
+        color: #29B57A;
+    }
+    span.MuiSlider-colorPrimary.MuiSlider-sizeMedium.MuiSlider-root.css-187mznn-MuiSlider-root {
+        margin: 0 6px;
+    }
+    .resetbtn {
+        /* position: absolute; */
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .bg-light.border {
+        display: block;
+    }
+
+    div#standard-select-currency {
+        min-width: 290px;
+    }
+
+    .resetbtn {
+        text-align: center;
+    }
+
+    label#standard-select-currency-label {
+        color: #787777;
+    }
+
+    .pin {
+        filter: invert(1);
+    }
+
+    label#standard-multiline-flexible-label {
+        color: #787777;
+    }
+
+    textarea#standard-multiline-flexible {
+        color: #000;
+    }
+
+    .zipcode {
+        display: flex;
+    }
+
+    label#datepicker-label {
+        color: #787777;
+    }
+
+    .MuiInput-root.MuiInput-underline.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.css-1ptx2yq-MuiInputBase-root-MuiInput-root {
+        filter: invert(1);
+    }
+
+    p.MuiTypography-root.MuiTypography-body1.MuiTypography-gutterBottom.css-d3wcwz-MuiTypography-root {
+        color: #000;
+    }
+
+    span.MuiSlider-rail.css-14pt78w-MuiSlider-rail {
+        color: #937f7f;
+    }
+
+    span.MuiSlider-track.css-1gv0vcd-MuiSlider-track {
+        color: #1976d2;
+    }
+
+    .css-eg0mwd-MuiSlider-thumb:before {
+        background: #1976d2;
+    }
+
+    .zipcode {
+        display: flex;
+    }
+
+    button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+        color: burlywood;
+    }
+
+    .resetbtn {
+        bottom: 60px;
+        position: fixed;
+        left: 10px;
+    }
+
+    button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+        color: #166abd;
+    }
+    .closebtn svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root {
+        color: #000;
+    }
+    .resetbtn img {
+        filter: invert(1);
+    }
+
+    span.closebtn {
+        color: #000;
+        font-weight: 600;
+    }
+    textarea#standard-multiline-flexible::placeholder {
+        color: #000 !important;
+    }
+    .MuiBox-root.css-1domaf0 {
+        width: 100%;
+    }
+
+    .rangeslider {
+        margin: 0px;
+    }
+
+    .resetbtn button.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeMedium.MuiButton-outlinedSizeMedium.MuiButtonBase-root.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+        width: 80%;
+        padding: 16px 20px;
+        margin: 20px;
+    }
+}

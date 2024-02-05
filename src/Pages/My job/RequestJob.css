@@ -1,0 +1,107 @@
+.request{
+    overflow: hidden;
+}
+.request_row{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background: #E5E5E5;
+    height: 4vh;
+}
+.request_incard{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.requestcard_logoside{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 15%;
+}
+.requestcard_open{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 7%;
+}
+.requestcard_button{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 21%;
+}
+.request_rowspan{
+    margin-left: -118px;
+    color: #202430ba;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 140%;
+}
+.request_rowspan1{
+    margin-left: -148px;
+    color: #202430ba;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 140%;
+}
+.request_rowspan3{
+    margin-right: 82px;
+    color: #202430ba;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 140%;
+}
+.requestcard_span{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 140%;
+}
+.requestcard_span1{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 140%;
+}
+.request_rowpaginat{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.requestpaginat_text{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.25px;
+    color: #A8A8A8;
+}
+@media screen  and (max-width:480px){
+    .request_row{
+        display: none;
+    }
+    .request_card{
+    text-align: initial;
+    display: block !important;
+ }
+ .requestcard_button{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 60%;
+ }
+ .requestcard_span1{
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 140%;
+    position: absolute;
+    top: 22px;
+    left: 45px;
+ }
+ .requestcard_logoside {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 50%;
+}
+}

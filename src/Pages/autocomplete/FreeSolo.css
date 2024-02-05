@@ -1,0 +1,85 @@
+.autoComp {
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    /* height: 100vh; */
+    width: auto;
+}
+
+@media screen and (max-width: 445px) {
+    .autoComp {
+        width: 68%;
+    }
+}
+
+@media screen and (max-width:480px) {
+    input#infreesolo {
+        width: 100% !important;
+    }
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+    z-index: 1 !important;
+    padding-top: 2px !important;
+}
+
+.css-1jruifh-MuiStack-root {
+    width: auto !important;
+}
+
+input#infreesolo {
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 7px 31px;
+    gap: 8px;
+    width: 100%;
+    height: 35px;
+    /* border: 1px solid #8D8D8D; */
+    border-radius: 4px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    background: white;
+}
+
+input#infreeSolo2 {
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 7px 31px;
+    gap: 8px;
+    width: 100%;
+    height: 35px;
+    border: 1px solid #8D8D8D !important;
+    border-radius: 4px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    color: white;
+    background: white;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+    color: black !important;
+}
+
+label#infreesolo-label {
+    color: black !important;
+}
+
+.autoComp_side {
+    display: flex;
+    align-items: center;
+}
+
+.search_imag {
+    margin-top: 37px;
+    margin-left: 5px;
+    padding: 1px;
+
+}

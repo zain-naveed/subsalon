@@ -1,0 +1,21 @@
+.divCards {
+  display: flex;
+  justify-content: center;
+}
+
+.cTitle {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+  color: #222222;
+}
+
+.pText {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 140%;
+  color: #9E9E9E;
+}

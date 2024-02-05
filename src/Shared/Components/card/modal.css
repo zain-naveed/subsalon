@@ -1,0 +1,28 @@
+.modal-content{
+}
+
+.Ann-title-cont{
+   margin-top: 40px;
+   display: flex;
+   justify-content:center;
+   width:100%
+}
+
+.Ann-title{
+    font-size: 25px !important;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-left: 2px;
+}
+
+.Ann-msg-cont{
+    margin: 10px 30px 30px 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding:10px;
+    min-height: 250px !important;
+}
+
+.Ann-msg{
+    margin-bottom: 0;
+}
